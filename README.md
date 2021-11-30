@@ -1,1 +1,2 @@
-# whos-dumb
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
